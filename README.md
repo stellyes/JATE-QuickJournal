@@ -1,6 +1,6 @@
 # J.A.T.E. 
 *Just Another Text Editor*
-Please visit the deployed application [here](https://jate-quick-journal-e28097e8b785.herokuapp.com/).
+Please visit the deployed application [here](https://jate-tydj.onrender.com).
 
 ## Installation
 Once you've cloned the repository, navigate to the directory containing it and run `npm install` and `npm run build` to build the application.
